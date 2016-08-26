@@ -1,7 +1,7 @@
 {
-  "name": "@marsaud/smb2",
+  "name": "@jprogrammer/smb2",
   "description": "SMB2 Client",
-  "homepage": "https://github.com/marsaud/node-smb2",
+  "homepage": "https://github.com/JProgrammer/node-smb2",
   "version": "0.7.1",
   "engines": [
     "node"
@@ -17,7 +17,7 @@
   "main": "lib/smb2.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marsaud/node-smb2"
+    "url": "https://github.com/JProgrammer/node-smb2"
   },
   "dependencies": {
     "babel-runtime": "^5.8.34",
