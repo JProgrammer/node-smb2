@@ -22,7 +22,7 @@
   "dependencies": {
     "babel-runtime": "^5.8.34",
     "bluebird": "^2.10.2",
-    "ntlm": "github:magnusottosson/node-ntlm#156d03cb6cac2f7c57f737a0d5f1cdfd121293a0"
+    "ntlm": "https://github.com/magnusottosson/node-ntlm/archive/156d03cb6cac2f7c57f737a0d5f1cdfd121293a0.tar.gz"
   },
   "keywords": [
     "SMB",
